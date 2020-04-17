@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "FIXME"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Scripps Institution of Oceanography"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -20,7 +20,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
-HEADER
+Soy el titulo
 
 Edit the values in the block above to be appropriate for your workshop.
 If the value is not 'true', 'false', 'null', or a number, please use
